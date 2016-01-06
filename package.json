@@ -1,0 +1,17 @@
+{
+  "name": "json",
+  "version": "1.0.0",
+  "description": "JSON reader for the shell",
+  "main": "index.js",
+  "bin": {
+    "json": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andrew Taylor",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^2.9.0"
+  }
+}
